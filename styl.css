@@ -1,0 +1,47 @@
+.T1{
+    background-color:beige;
+    width:  100vw;
+    height: 140vh;
+}
+.T2{
+  background-color: beige;
+  height: 100vh;
+}
+.T3{
+    background-color: rgb(230, 231, 231);
+    width: 359px;
+    height: 379px;
+    border: 1px solid ;
+    border-radius: 10px;
+
+}
+.u{
+    color: blue;
+    text-align: center;
+}
+.p{
+    text-align: center;
+}
+.M{
+    background-color: rgb(89, 89, 248);
+    text-align: center;
+}
+.T5{
+    background-color: aliceblue;
+    width: 359px;
+    height: 379px;
+    border: 1px solid ;
+    border-radius: 10px;
+}
+.T6{
+    color: rgb(85, 85, 254);
+    text-align: center;
+}
+.T7{
+    text-align: center;
+}
+.T8{
+    background-color: rgb(87, 87, 249);
+    color: black;
+    text-align: center;
+}
